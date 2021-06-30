@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Max</h1>
 <h3 align="center">kinda a rookie 🙃 gotta pump those numbers up</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reichmann-m&label=Profile%20views&color=0e75b6&style=flat" alt="reichmann-m" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reichmann-m&label=Profile%20views&color=yellow&style=flat" alt="reichmann-m" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reichmann-m" alt="reichmann-m" /></a> </p>
 
