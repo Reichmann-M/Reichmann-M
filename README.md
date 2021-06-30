@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reichmann-m" alt="reichmann-m" /></a> </p>
 
-- 🔭 I’m currently working on ['steiger' discord music bot](https://github.com/Reichmann-M/steiger-remastered)
+- 🔭 I’m currently working on ['steiger' discord music bot](https://github.com/Reichmann-M/steiger-remastered) 🎧
 
 - 🌱 I’m currently learning **React, Tensorflow**
 
