@@ -67,7 +67,7 @@
   </a>
 </p>
 
-- Some 📊 from my public activity:
+<h3 align="left">Some 📊 from my public activity:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reichmann-m&show_icons=true&locale=en" alt="reichmann-m" /></p>
 
