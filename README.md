@@ -70,11 +70,11 @@
 <h3 align="left">Some 📊 from my public activity:</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=reichmann-m&show_icons=true&include_all_commits=true&theme=material-palenight" alt="My Github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=reichmann-m&show_icons=true&include_all_commits=true" alt="My Github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=reichmann-m&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=reichmann-m&layout=compact" />
 </a>
 
 <!--
